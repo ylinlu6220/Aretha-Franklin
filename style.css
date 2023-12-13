@@ -65,6 +65,9 @@ h1 {
     letter-spacing: 2px;
     text-align: center;
 }
+h3{
+    text-align: center;
+}
 div img {
     width: 300px;
     float: left;
