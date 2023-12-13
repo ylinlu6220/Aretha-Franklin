@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     color: #000;
+    
 }
 body{
     background-image: linear-gradient(rgba(143, 105, 55, 0.7), rgba(46, 34, 24, 0.7)), url(Images/beach-desert.jpg);
@@ -88,4 +89,14 @@ video{
 .quoted p{
     color: rgb(204, 169, 128);
     font-style: italic;
+}
+.vid-1 video{
+    width: 35%;
+    height: 35%;
+    float: left;
+    margin: 15px;
+}
+.cit p{
+    font-size: 15px;
+    
 }
